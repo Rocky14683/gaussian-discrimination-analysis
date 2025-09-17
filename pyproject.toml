@@ -1,0 +1,10 @@
+[project]
+name = "assignment1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.3.2",
+    "roipoly>=0.5.3",
+]
